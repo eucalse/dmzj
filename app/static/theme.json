@@ -1,0 +1,16 @@
+{
+  "type": "theme",
+  "result": [{
+      "title": "五一专题",
+      "img": "../static/theme/五一专题.png"
+    },
+    {
+      "title": "新漫周刊51期",
+      "img": "../static/theme/新漫周刊51期.png"
+    },
+    {
+      "title": "银河系完结指南",
+      "img": "../static/theme/银河系完结指南.png"
+    }
+  ]
+}

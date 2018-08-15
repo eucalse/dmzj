@@ -1,0 +1,41 @@
+{
+  "type": "comics",
+  "result": [{
+      "name": "从死亡之旅开始的异世界狂想曲",
+      "nickName": "",
+      "img": "../static/comics/从死亡之旅开始的异世界狂想曲.png",
+      "id": 0
+    },
+    {
+      "name": "古见同学有交流障碍症",
+      "nickName": "",
+      "img": "../static/comics/古见同学有交流障碍症.png",
+      "id": 1
+    },
+    {
+      "name": "五等分花嫁",
+      "nickName": "",
+      "img": "../static/comics/五等分花嫁.png",
+      "id": 2
+    },
+    {
+      "name": "秘密的爬虫类",
+      "nickName": "爬虫类",
+      "img": "../static/comics/秘密的爬虫类.png",
+      "id": 3
+    },
+    {
+      "name": "虫笼奇谈",
+      "nickName": "从入门",
+      "img": "../static/comics/虫笼奇谈.png",
+      "id": 4
+    },
+    {
+      "name": "驱除人",
+      "nickName": "到入土",
+      "img": "../static/comics/驱除人.png",
+      "id": 5
+    }
+  ]
+
+}
